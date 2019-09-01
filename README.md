@@ -22,7 +22,7 @@ and Uses native Java library to parse and write CSV.
 How to run this Project:
 1) Install maven and run 'mvn -U clean install' in the context-root
    This will create the jar artifact in the target folder
-2) then run "java -jar eventfilter-1.0-SNAPSHOT-with-dependencies.jar"
+2) then run "java -jar eventfilter-1.0-SNAPSHOT-jar-with-dependencies.jar"
    to execute the merge and view summary in console
 
 
